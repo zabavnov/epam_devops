@@ -41,6 +41,7 @@ for i in variables:
   do_action(i)
   
 
+
 # Please, for all elements in `variables` list print the following:
 #  the type of variable using `print_type` function
 #  and the action for variable using `do_action` function
